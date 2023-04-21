@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* set background color to #d9dcd6 */
 body {
     background-color: #d9dcd6;
 }
-
+/* Headers with font-family and text color. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* position of content */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* specifications of each article */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -194,7 +194,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* footer set with 20 px font size */
 .footer h2 {
     font-size: 20px;
 }
